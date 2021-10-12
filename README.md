@@ -20,7 +20,7 @@ The key components of the project are:
 	- FrameObserver
 	- CameraObserver
 - Shared pointers are widely used.
-- How OpenCV is used to check for differences, and how different methods are implemented to do prelimianary for efficiency.
+- How OpenCV is used to check for differences, and how different methods are implemented to do preliminary work for efficiency.
 
 ### Needed Libraries
 
